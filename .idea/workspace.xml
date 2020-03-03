@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2759202d-25be-4999-ae0d-6590efc97961" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YUNewTpxWuEbritIz1ngbTcn41" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.Class2">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="Assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.B" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Run" />
+      <module name="Assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="org.example.Class" />
+        <pattern testClass="org.example.Class2" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.B" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Class" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Class2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Class2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment3 [test] (1)" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mvn" />
+                <option value="-q" />
+                <option value="test" />
+                <option value="-Dtest=Class2" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment3 [test] " type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment3 [test]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mvn" />
+                <option value="-q" />
+                <option value="test" />
+                <option value="-Dtest=Class2" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.Run" />
+      <item itemvalue="JUnit.Class" />
+      <item itemvalue="JUnit.Class2" />
+      <item itemvalue="JUnit.Class and 1 more" />
+      <item itemvalue="Maven.Assignment3 [test]" />
+      <item itemvalue="Maven.Assignment3 [test] " />
+      <item itemvalue="Maven.Assignment3 [test] (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Class2" />
+        <item itemvalue="JUnit.Class" />
+        <item itemvalue="JUnit.Class and 1 more" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2759202d-25be-4999-ae0d-6590efc97961" name="Default Changelist" comment="" />
+      <created>1582993311995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582993311995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="0" key="#Assignment3_[test]" timestamp="1583169470730">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="317" y="0" key="#Assignment3_[test]/0.0.1536.864@0.0.1536.864" timestamp="1583169470730" />
+    <state x="317" y="0" key="#Assignment3_[test]_(1)" timestamp="1583169580433">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="317" y="0" key="#Assignment3_[test]_(1)/0.0.1536.864@0.0.1536.864" timestamp="1583169580433" />
+    <state x="317" y="0" key="#Assignment3_[test]_(2)" timestamp="1583169592368">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="317" y="0" key="#Assignment3_[test]_(2)/0.0.1536.864@0.0.1536.864" timestamp="1583169592368" />
+    <state x="223" y="80" width="1212" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583169757641">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="80" width="1212" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583169757641" />
+    <state x="518" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582993435359">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="518" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1582993435359" />
+    <state x="530" y="62" key="#com.intellij.ide.util.MemberChooser" timestamp="1583266446898">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="530" y="62" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1583266446898" />
+    <state width="711" height="42" key="GridCell.Tab.0.bottom" timestamp="1583261603781">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="711" height="42" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583261603781" />
+    <state width="711" height="42" key="GridCell.Tab.0.center" timestamp="1583261603781">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="711" height="42" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583261603781" />
+    <state width="711" height="42" key="GridCell.Tab.0.left" timestamp="1583261603781">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="711" height="42" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583261603781" />
+    <state width="711" height="42" key="GridCell.Tab.0.right" timestamp="1583261603781">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="711" height="42" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583261603781" />
+    <state x="373" y="8" key="Maven.ArtifactSearchDialog" timestamp="1583260413811">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="373" y="8" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1583260413811" />
+    <state x="401" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1583169256288">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="401" y="215" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583169256288" />
+  </component>
+</project>
